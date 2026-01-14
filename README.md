@@ -1,6 +1,6 @@
 # Tableau
 ## My Tableau Dashboards
-- [Ecommerce Study](https://public.tableau.com/views/TargetCasestudy/Dashboard-3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Retail_Store_Trend_Analysis](https://public.tableau.com/views/TargetCasestudy/Dashboard-3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Airbnb Study](https://public.tableau.com/app/profile/rahil.qureshi/viz/AirbnbStudy_17453994260850/ofRedundantlistings)
 - [CO2 Data Blending](https://public.tableau.com/app/profile/rahil.qureshi/viz/BLENDINGco2dataOlympics/BLENDING)
 - [DASHBOARD (For BP)](https://public.tableau.com/app/profile/rahil.qureshi/viz/DASHBOARDForBP/Dashboard2)
